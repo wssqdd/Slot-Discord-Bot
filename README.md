@@ -26,4 +26,4 @@ Ce bot Discord permet de créer des "slots" (canaux) avec un vendeur assigné, o
 1. Clonez ce dépôt.
 2. Installez les dépendances :
    ```bash
-   pip install -U discord.py colorama pystyle
+   pip install -U discord.py 
